@@ -6,7 +6,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Привет мир!");
         System.out.printf("Hello world!");
-
+System.out.println("Hola mundo")
 
     }
 }
